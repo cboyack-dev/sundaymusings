@@ -1,5 +1,148 @@
 [
   {
+    "number": 231,
+    "title": "Changing Definitions of Apostasy",
+    "desc": "A review of nearly a century of Church manuals highlights how fluid the definition of apostasy has been over time. What does that mean for us today?",
+    "tags": "apostasy church-culture faith",
+    "image": "apostasydef",
+    "YT": "https://www.youtube.com/watch?v=xWEr-uW6VLk",
+    "APPLE": "#",
+    "date": "June 21, 2026",
+    "published": false
+  },
+  {
+    "number": 230,
+    "title": "Billions in Welfare, How Does it Compare?",
+    "desc": "Recent announcements highlight that humanitarian aid exceeds a billion dollars annually. Based on Church membership and wealth… should that number be higher?",
+    "tags": "welfare tithing transparency finances",
+    "image": "billions",
+    "YT": "https://www.youtube.com/watch?v=IJ3SMCZd8FI",
+    "APPLE": "#",
+    "date": "June 14, 2026",
+    "published": false
+  },
+  {
+    "number": 229,
+    "title": "Anti-War Missionary Work?",
+    "desc": "Are pro-war Mormons impeding the spread of the gospel of peace?",
+    "tags": "church-culture apostasy idolatry war church-history",
+    "image": "antiwarm",
+    "YT": "https://youtu.be/apVGuLp1PqQ",
+    "APPLE": "#",
+    "date": "June 7, 2026",
+    "published": false
+  },
+  {
+    "number": 228,
+    "title": "The Church's Stumbling Block Slowing Growth",
+    "desc": "What if the thing slowing the restored gospel's growth isn't outside forces, but inside ones?",
+    "tags": "church-culture apostasy idolatry missionary",
+    "image": "stumble",
+    "YT": "https://youtu.be/yIOp-cLV1PY",
+    "APPLE": "#",
+    "date": "May 31, 2026",
+    "published": false
+  },
+  {
+    "number": 227,
+    "title": "The Moral Decay of Society’s Institutions",
+    "desc": "Relentless vigilance is the only price of institutional fidelity, and most of us are failing the test right now…",
+    "tags": "church-culture apostasy prophet idolatry",
+    "image": "instdecay",
+    "YT": "https://youtu.be/QdNXiMOZ3Bk",
+    "APPLE": "#",
+    "date": "May 24, 2026",
+    "published": false
+  },
+  {
+    "number": 226,
+    "title": "In Defense of (Some?) Billionaires",
+    "desc": "Leftist Christians attempt to wrest the scriptures to attack wealth, yet Jesus rejects their redistribution schemes in the Parable of Talents. What does this mean for today's wealth creators?",
+    "tags": "money politics culture christianity welfare taxes",
+    "image": "talarico",
+    "YT": "https://youtu.be/kC6g_GbUkPc",
+    "APPLE": "#",
+    "date": "May 17, 2026",
+    "published": false
+  },
+  {
+    "number": 225,
+    "title": "The Secular Experiment Is Cracking",
+    "desc": "If secularism promised liberation, why has it left so many people more disconnected, uncertain, and spiritually hungry than ever?",
+    "tags": "church-culture culture christianity faith",
+    "image": "secularism",
+    "YT": "https://youtu.be/eDritCmuj2M",
+    "APPLE": "#",
+    "date": "May 10, 2026",
+    "published": false
+  },
+  {
+    "number": 224,
+    "title": "Mormon Women Have Been Silenced",
+    "desc": "Where are the defenders of motherhood among Latter-day Saint women in leadership, when children need them most?",
+    "tags": "abortion general-conference",
+    "image": "abortionv2",
+    "YT": "https://youtu.be/NyQGjm1zJgs",
+    "APPLE": "#",
+    "date": "May 3, 2026",
+    "published": false
+  },
+  {
+    "number": 223,
+    "title": "Have We Stopped Talking About the Second Coming?",
+    "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
+    "tags": "charity church-culture welfare jesus-christ",
+    "image": "2ndcoming",
+    "YT": "https://youtu.be/6ezq-SG-Li4",
+    "APPLE": "#",
+    "date": "April 26, 2026",
+    "published": false
+  },
+  {
+    "number": 222,
+    "title": "Are We \"Sounding a Trumpet\" Before Our Alms?",
+    "desc": "Jesus said to do our alms in secret, not to be seen of men. So why does the Church issue press releases, hire influencers, and create social media campaigns around its charitable efforts?",
+    "tags": "charity church-culture welfare jesus-christ",
+    "image": "alms",
+    "YT": "https://youtu.be/X-YgtU1iOnQ",
+    "APPLE": "#",
+    "date": "April 19, 2026",
+    "published": false
+  },
+  {
+    "number": 221,
+    "title": "General Conference: Inspiring or Just Inoffensive?",
+    "desc": "A new analysis of scriptures and talks shares an interesting contrast in how boldly past and present prophets preach repentance.",
+    "tags": "general-conference prophet repentance church-culture",
+    "image": "boldness",
+    "YT": "https://youtu.be/yYBhWT64Ly4",
+    "APPLE": "#",
+    "date": "April 12, 2026",
+    "published": false
+  },
+  {
+    "number": 220,
+    "title": "Christ’s Response to Toxic Masculinity",
+    "desc": "What if an old Presbyterian hymn contains the formula bearers of the priesthood need to follow to usher in God’s kingdom?",
+    "tags": "priesthood",
+    "image": "riseup",
+    "YT": "https://youtu.be/VMExkKs3oE8",
+    "APPLE": "#",
+    "date": "April 5, 2025",
+    "published": false
+  },
+  {
+    "number": 219,
+    "title": "Is repentance a \"process\"?",
+    "desc": "When someone is guilty of a serious sin, does their repentance of that action require a process of any kind—or is their sincere repentance effective instantly?",
+    "tags": "repentance doctrine scripture",
+    "image": "repentevent",
+    "YT": "https://youtu.be/U8SRdmCCcLQ",
+    "APPLE": "#",
+    "date": "March 29, 2025",
+    "published": false
+  },
+  {
     "number": 218,
     "title": "Concubines: Past, Present, and… Eternally?",
     "desc": "Section 132 purports to authorize not just polygamy, but concubinage. What exactly is that, and how has it worked throughout history?",

@@ -188,8 +188,8 @@ select {
     fetch('episodes.json')
         .then(r => r.json())
         .then(episodes => {
-            allEpisodes = episodes;
-            populateTopics(episodes);
+            allEpisodes = episodes.filter(ep => ep.published !== false);
+            populateTopics(allEpisodes);
             renderBatch();
             initIsotope();
             bindEvents();

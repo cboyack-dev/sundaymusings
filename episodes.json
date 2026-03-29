@@ -1,4 +1,26 @@
 [
+    {
+      "number": 233,
+      "title": "Tim Ballard’s Bad History",
+      "desc": "When faith-promoting stories of history turn into political pornography, what is the effect on the testimony and knowledge of those consuming this material?",
+      "tags": "church-culture history faith testimony constitution",
+      "image": "ballard2",
+      "YT": "https://youtu.be/xQMljW-ykqg",
+      "APPLE": "#",
+      "date": "July 5, 2026",
+      "published": false
+    },
+    {
+      "number": 232,
+      "title": "",
+      "desc": "",
+      "tags": "",
+      "image": "",
+      "YT": "#",
+      "APPLE": "#",
+      "date": "June 28, 2026",
+      "published": false
+    },
   {
     "number": 231,
     "title": "Changing Definitions of Apostasy",
@@ -138,9 +160,8 @@
     "tags": "repentance doctrine scripture",
     "image": "repentevent",
     "YT": "https://youtu.be/U8SRdmCCcLQ",
-    "APPLE": "#",
+    "APPLE": "https://podcasts.apple.com/us/podcast/is-repentance-a-process/id1607871793?i=1000758049450",
     "date": "March 29, 2025",
-    "published": false
   },
   {
     "number": 218,

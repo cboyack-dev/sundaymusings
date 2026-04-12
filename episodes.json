@@ -140,7 +140,6 @@
     "YT": "https://youtu.be/yYBhWT64Ly4",
     "APPLE": "#",
     "date": "April 12, 2026",
-    "published": false
   },
   {
     "number": 220,
@@ -151,7 +150,6 @@
     "YT": "https://youtu.be/VMExkKs3oE8",
     "APPLE": "#",
     "date": "April 5, 2025",
-    "published": false
   },
   {
     "number": 219,
@@ -161,7 +159,7 @@
     "image": "repentevent",
     "YT": "https://youtu.be/U8SRdmCCcLQ",
     "APPLE": "https://podcasts.apple.com/us/podcast/is-repentance-a-process/id1607871793?i=1000758049450",
-    "date": "March 29, 2025",
+    "date": "March 29, 2025"
   },
   {
     "number": 218,

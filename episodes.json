@@ -1,5 +1,16 @@
 [
     {
+      "number": 234,
+      "title": "Are Women Excessively Validated?",
+      "desc": "The subjective experiences of Latter-day Saint women reveal deep constrast in how they experience Church. But could part of the problem stem from a slow stain of feminist opposition to accountability?",
+      "tags": "church-culture culture family",
+      "image": "validation",
+      "YT": "https://youtu.be/XLpM04wiRlo",
+      "APPLE": "#",
+      "date": "July 12, 2026",
+      "published": false
+    },
+    {
       "number": 233,
       "title": "Tim Ballard’s Bad History",
       "desc": "When faith-promoting stories of history turn into political pornography, what is the effect on the testimony and knowledge of those consuming this material?",
@@ -138,7 +149,7 @@
     "tags": "general-conference prophet repentance church-culture",
     "image": "boldness",
     "YT": "https://youtu.be/yYBhWT64Ly4",
-    "APPLE": "#",
+    "APPLE": "https://podcasts.apple.com/us/podcast/general-conference-inspiring-or-just-inoffensive/id1607871793?i=1000760940959",
     "date": "April 12, 2026"
   },
   {
@@ -148,7 +159,7 @@
     "tags": "priesthood",
     "image": "riseup",
     "YT": "https://youtu.be/VMExkKs3oE8",
-    "APPLE": "#",
+    "APPLE": "https://podcasts.apple.com/us/podcast/christs-response-to-toxic-masculinity/id1607871793?i=1000759390113",
     "date": "April 5, 2025"
   },
   {

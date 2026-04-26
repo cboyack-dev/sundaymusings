@@ -1,8 +1,41 @@
 [
     {
+      "number": 237,
+      "title": "The Nemenhah Record: True or False?",
+      "desc": "Is it possible that new scripture has been revealed sharing additional evidence about the people described in the Book of Mormon?",
+      "tags": "scripture revelation book-of-mormon polygamy temple",
+      "image": "nemenhah",
+      "YT": "https://youtu.be/sb_t9SZAM5c",
+      "APPLE": "#",
+      "date": "August 2, 2026",
+      "published": false
+    },
+    {
+      "number": 236,
+      "title": "Have We Stopped Talking About the Second Coming?",
+      "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
+      "tags": "charity church-culture welfare jesus-christ",
+      "image": "2ndcoming",
+      "YT": "https://youtu.be/6ezq-SG-Li4",
+      "APPLE": "#",
+      "date": "July 26, 2026",
+      "published": false
+    },
+    {
+      "number": 235,
+      "title": "Changing Definitions of Apostasy",
+      "desc": "A review of nearly a century of Church manuals highlights how fluid the definition of apostasy has been over time. What does that mean for us today?",
+      "tags": "apostasy church-culture faith",
+      "image": "apostasydef",
+      "YT": "https://www.youtube.com/watch?v=xWEr-uW6VLk",
+      "APPLE": "#",
+      "date": "July 19, 2026",
+      "published": false
+    },
+    {
       "number": 234,
       "title": "Are Women Excessively Validated?",
-      "desc": "The subjective experiences of Latter-day Saint women reveal deep constrast in how they experience Church. But could part of the problem stem from a slow stain of feminist opposition to accountability?",
+      "desc": "The subjective experiences of Latter-day Saint women reveal a deep contrast in how they experience the Church. But could part of the problem stem from a slow stain of feminist opposition to accountability?",
       "tags": "church-culture culture family",
       "image": "validation",
       "YT": "https://youtu.be/XLpM04wiRlo",
@@ -32,17 +65,17 @@
       "date": "June 28, 2026",
       "published": false
     },
-  {
-    "number": 231,
-    "title": "Changing Definitions of Apostasy",
-    "desc": "A review of nearly a century of Church manuals highlights how fluid the definition of apostasy has been over time. What does that mean for us today?",
-    "tags": "apostasy church-culture faith",
-    "image": "apostasydef",
-    "YT": "https://www.youtube.com/watch?v=xWEr-uW6VLk",
-    "APPLE": "#",
-    "date": "June 21, 2026",
-    "published": false
-  },
+    {
+      "number": 231,
+      "title": "",
+      "desc": "",
+      "tags": "",
+      "image": "",
+      "YT": "#",
+      "APPLE": "#",
+      "date": "June 21, 2026",
+      "published": false
+    },
   {
     "number": 230,
     "title": "Billions in Welfare, How Does it Compare?",
@@ -122,14 +155,13 @@
   },
   {
     "number": 223,
-    "title": "Have We Stopped Talking About the Second Coming?",
-    "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
-    "tags": "charity church-culture welfare jesus-christ",
-    "image": "2ndcoming",
-    "YT": "https://youtu.be/6ezq-SG-Li4",
+    "title": "Young Women: What’s in a name?",
+    "desc": "If the newly announced names for Young Women aren't accompanied by substantive reform in what girls are taught, then what good will they do?",
+    "tags": "culture church-culture youth family",
+    "image": "ywnames",
+    "YT": "https://youtu.be/Q9dzDNlGRy4",
     "APPLE": "#",
-    "date": "April 26, 2026",
-    "published": false
+    "date": "April 26, 2026"
   },
   {
     "number": 222,
@@ -139,8 +171,7 @@
     "image": "alms",
     "YT": "https://youtu.be/X-YgtU1iOnQ",
     "APPLE": "#",
-    "date": "April 19, 2026",
-    "published": false
+    "date": "April 19, 2026"
   },
   {
     "number": 221,

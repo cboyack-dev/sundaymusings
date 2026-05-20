@@ -1,11 +1,22 @@
 [
     {
+      "number": 240,
+      "title": "The Superficial Statements of Leftist Latter-day Saints",
+      "desc": "As more Mormons move to the political left, how are they reconciling their political and religious views?",
+      "tags": "politics church-culture",
+      "image": "leftists",
+      "YT": "https://youtu.be/m2OXSsEnqRw",
+      "APPLE": "#",
+      "date": "August 23, 2026",
+      "published": false
+    },
+    {
       "number": 239,
       "title": "Why I Oppose the Death Penalty (and Why You Should Too)",
       "desc": "How has the Church's position on capital punishment changed over time, and what scriptures (if any) support it?",
       "tags": "politics scripture",
       "image": "deathpenalty",
-      "YT": "#",
+      "YT": "https://youtu.be/68mCI_vZFtc",
       "APPLE": "#",
       "date": "August 16, 2026",
       "published": false

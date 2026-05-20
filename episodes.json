@@ -1,5 +1,16 @@
 [
     {
+      "number": 239,
+      "title": "Why I Oppose the Death Penalty (and Why You Should Too)",
+      "desc": "How has the Church's position on capital punishment changed over time, and what scriptures (if any) support it?",
+      "tags": "politics scripture",
+      "image": "deathpenalty",
+      "YT": "#",
+      "APPLE": "#",
+      "date": "August 16, 2026",
+      "published": false
+    },
+    {
       "number": 238,
       "title": "Ten Changes Joseph Smith Made to the Bible",
       "desc": "Whether gruesome or glorified, Joseph made a wide range of edits to the King James Version. Here are ten worth mentioning.",
@@ -67,11 +78,11 @@
     },
     {
       "number": 232,
-      "title": "",
-      "desc": "",
-      "tags": "",
-      "image": "",
-      "YT": "#",
+      "title": "How the Church Celebrated America’s Birthday… 50 Years Ago",
+      "desc": "How does this year's focus on America by the Church compare to what happened half a century ago? The answer may surprise you.",
+      "tags": "politics church-culture freedom church-history",
+      "image": "200th",
+      "YT": "https://youtu.be/F3TPhbPi-4c",
       "APPLE": "#",
       "date": "June 28, 2026",
       "published": false
@@ -138,9 +149,8 @@
     "tags": "money politics culture christianity welfare taxes",
     "image": "talarico",
     "YT": "https://youtu.be/kC6g_GbUkPc",
-    "APPLE": "#",
-    "date": "May 17, 2026",
-    "published": false
+    "APPLE": "https://podcasts.apple.com/us/podcast/in-defense-of-some-billionaires/id1607871793?i=1000768259724",
+    "date": "May 17, 2026"
   },
   {
     "number": 225,
@@ -149,9 +159,8 @@
     "tags": "church-culture culture christianity faith",
     "image": "secularism",
     "YT": "https://youtu.be/eDritCmuj2M",
-    "APPLE": "#",
-    "date": "May 10, 2026",
-    "published": false
+    "APPLE": "https://podcasts.apple.com/us/podcast/the-secular-experiment-is-cracking/id1607871793?i=1000767057478",
+    "date": "May 10, 2026"
   },
   {
     "number": 224,

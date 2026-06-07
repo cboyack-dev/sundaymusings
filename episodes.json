@@ -1,5 +1,38 @@
 [
     {
+      "number": 243,
+      "title": "Billions in Welfare, How Does it Compare?",
+      "desc": "Recent announcements highlight that humanitarian aid exceeds a billion dollars annually. Based on Church membership and wealth… should that number be higher?",
+      "tags": "welfare tithing transparency finances",
+      "image": "billions",
+      "YT": "https://www.youtube.com/watch?v=IJ3SMCZd8FI",
+      "APPLE": "#",
+      "date": "September 13, 2026",
+      "published": false
+    },
+    {
+      "number": 242,
+      "title": "Have We Stopped Talking About the Second Coming?",
+      "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
+      "tags": "charity church-culture welfare jesus-christ",
+      "image": "2ndcoming",
+      "YT": "https://youtu.be/6ezq-SG-Li4",
+      "APPLE": "#",
+      "date": "September 6, 2026",
+      "published": false
+    },
+    {
+      "number": 241,
+      "title": "Isaiah’s Most Stinging Prophecies",
+      "desc": "With Come Follow Me's focus on Isaiah in the coming weeks, what are the messages we ought to pay attention to that few people actually do?",
+      "tags": "church-culture prophet apostasy",
+      "image": "isaiah2",
+      "YT": "https://youtu.be/6WYJ5-xyW3Y",
+      "APPLE": "#",
+      "date": "August 30, 2026",
+      "published": false
+    },
+    {
       "number": 240,
       "title": "The Superficial Statements of Leftist Latter-day Saints",
       "desc": "As more Mormons move to the political left, how are they reconciling their political and religious views?",
@@ -45,11 +78,11 @@
     },
     {
       "number": 236,
-      "title": "Have We Stopped Talking About the Second Coming?",
-      "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
-      "tags": "charity church-culture welfare jesus-christ",
-      "image": "2ndcoming",
-      "YT": "https://youtu.be/6ezq-SG-Li4",
+      "title": "Ten Threats to Religious Freedom",
+      "desc": "For all the talk of its importance, how are we actually doing in defending religious freedom?",
+      "tags": "religious-freedom freedom church-culture politics",
+      "image": "RFthreats",
+      "YT": "https://youtu.be/KHHx4UoRyk0",
       "APPLE": "#",
       "date": "July 26, 2026",
       "published": false
@@ -111,11 +144,11 @@
     },
   {
     "number": 230,
-    "title": "Billions in Welfare, How Does it Compare?",
-    "desc": "Recent announcements highlight that humanitarian aid exceeds a billion dollars annually. Based on Church membership and wealth… should that number be higher?",
-    "tags": "welfare tithing transparency finances",
-    "image": "billions",
-    "YT": "https://www.youtube.com/watch?v=IJ3SMCZd8FI",
+    "title": "“Torn” and Leaving Latter-day Saints",
+    "desc": "A new dataset has been compiled aiming to cast light on why some Mormons struggle with their faith. As it turns out, many of them may have been placing their trust in the wrong things.",
+    "tags": "church-culture church-history testimony faith",
+    "image": "torn",
+    "YT": "https://youtu.be/Ode2vtPRPEY",
     "APPLE": "#",
     "date": "June 14, 2026",
     "published": false
@@ -127,9 +160,8 @@
     "tags": "church-culture apostasy idolatry war church-history",
     "image": "antiwarm",
     "YT": "https://youtu.be/apVGuLp1PqQ",
-    "APPLE": "#",
-    "date": "June 7, 2026",
-    "published": false
+    "APPLE": "https://podcasts.apple.com/us/podcast/anti-war-missionary-work/id1607871793?i=1000771592100",
+    "date": "June 7, 2026"
   },
   {
     "number": 228,
@@ -138,9 +170,8 @@
     "tags": "church-culture apostasy idolatry missionary",
     "image": "stumble",
     "YT": "https://youtu.be/yIOp-cLV1PY",
-    "APPLE": "#",
-    "date": "May 31, 2026",
-    "published": false
+    "APPLE": "https://podcasts.apple.com/us/podcast/the-churchs-stumbling-block-slowing-growth/id1607871793?i=1000770434956",
+    "date": "May 31, 2026"
   },
   {
     "number": 227,

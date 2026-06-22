@@ -1,5 +1,27 @@
 [
     {
+      "number": 245,
+      "title": "Why I’ll Encourage My Kids to Dodge a Draft",
+      "desc": "Are Latter-day Saints allowed to opt out of war when so many statements to the contrary have been made?",
+      "tags": "church-history war church-culture politics",
+      "image": "draft",
+      "YT": "https://youtu.be/dvykiUNRB5Y",
+      "APPLE": "#",
+      "date": "September 27, 2026",
+      "published": false
+    },
+    {
+      "number": 244,
+      "title": "The Deniability Doctrine: Outsourcing Apologetics",
+      "desc": "A 2019 video highlights how the Church quietly partners with surrogates to engage in the vast majority of online conversations regarding the faith.",
+      "tags": "doctrine church-culture education social-media transparency",
+      "image": "denial",
+      "YT": "https://youtu.be/5gsuwMtZnjc",
+      "APPLE": "#",
+      "date": "September 20, 2026",
+      "published": false
+    },
+    {
       "number": 243,
       "title": "Billions in Welfare, How Does it Compare?",
       "desc": "Recent announcements highlight that humanitarian aid exceeds a billion dollars annually. Based on Church membership and wealth… should that number be higher?",
@@ -138,9 +160,8 @@
       "tags": "joseph-smith church-culture religious-freedom freedom",
       "image": "fastfreedom",
       "YT": "https://youtu.be/W3kp9F9qiRU",
-      "APPLE": "#",
-      "date": "June 21, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/why-im-not-fasting-for-religious-freedom/id1607871793?i=1000773605547",
+      "date": "June 21, 2026"
     },
   {
     "number": 230,
@@ -149,9 +170,8 @@
     "tags": "church-culture church-history testimony faith",
     "image": "torn",
     "YT": "https://youtu.be/Ode2vtPRPEY",
-    "APPLE": "#",
-    "date": "June 14, 2026",
-    "published": false
+    "APPLE": "https://podcasts.apple.com/us/podcast/torn-and-leaving-latter-day-saints/id1607871793?i=1000772647071",
+    "date": "June 14, 2026"
   },
   {
     "number": 229,

@@ -1,5 +1,27 @@
 [
     {
+      "number": 247,
+      "title": "The Protestantization of Mormonism",
+      "desc": "A new analysis highlights a growing trend to move the LDS Church in a direction more appealing to mainstream Christians.",
+      "tags": "doctrine christianity bible book-of-mormon scripture",
+      "image": "protest",
+      "YT": "https://youtu.be/RIgPeVldwYg",
+      "APPLE": "#",
+      "date": "October 11, 2026",
+      "published": false
+    },
+    {
+      "number": 246,
+      "title": "Have We Stopped Talking About the Second Coming?",
+      "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
+      "tags": "charity church-culture welfare jesus-christ",
+      "image": "2ndcoming",
+      "YT": "https://youtu.be/6ezq-SG-Li4",
+      "APPLE": "#",
+      "date": "October 4, 2026",
+      "published": false
+    },
+    {
       "number": 245,
       "title": "Why I’ll Encourage My Kids to Dodge a Draft",
       "desc": "Are Latter-day Saints allowed to opt out of war when so many statements to the contrary have been made?",
@@ -34,11 +56,11 @@
     },
     {
       "number": 242,
-      "title": "Have We Stopped Talking About the Second Coming?",
-      "desc": "How has our focus on the Second Coming shifted over the centuries, and can we actually say that we are meaningfully preparing for that event?",
-      "tags": "charity church-culture welfare jesus-christ",
-      "image": "2ndcoming",
-      "YT": "https://youtu.be/6ezq-SG-Li4",
+      "title": "9/11, 25 Years Later",
+      "desc": "What obvious conspiracy can we identify in what happened, and what relevance does it have a quarter of a century later?",
+      "tags": "war politics history",
+      "image": "911",
+      "YT": "https://youtu.be/4YzCUYP6nO8",
       "APPLE": "#",
       "date": "September 6, 2026",
       "published": false
@@ -138,9 +160,8 @@
       "tags": "church-culture history faith testimony constitution",
       "image": "ballard2",
       "YT": "https://youtu.be/xQMljW-ykqg",
-      "APPLE": "#",
-      "date": "July 5, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/tim-ballards-bad-history/id1607871793?i=1000775523377",
+      "date": "July 5, 2026"
     },
     {
       "number": 232,

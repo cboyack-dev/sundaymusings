@@ -1,4 +1,29 @@
 [
+
+    {
+      "number": 249,
+      "title": "Mormon History and the September Six",
+      "desc": "A 1980s-era purge of intellectuals and activists has cast a long shadow, but what events led up to this conflict and how might similar tensions today play out?",
+      "tags": "church-culture church-history transparency",
+      "image": "sept6",
+      "YT": "https://youtu.be/W_NFx-obkS8",
+      "APPLE": "#",
+      "date": "October 25, 2026",
+      "published": false
+    },
+
+    {
+      "number": 248,
+      "title": "How to Be a Bad Global Citizen",
+      "desc": "In a Babylonian world, should disciples of Christ strive to be compliant citizens for Caesar?",
+      "tags": "politics history culture law",
+      "image": "badcitizen",
+      "YT": "https://youtu.be/8obmqqOjtoo",
+      "APPLE": "#",
+      "date": "October 18, 2026",
+      "published": false
+    },
+
     {
       "number": 247,
       "title": "The Protestantization of Mormonism",
@@ -138,9 +163,8 @@
       "tags": "apostasy church-culture faith",
       "image": "apostasydef",
       "YT": "https://www.youtube.com/watch?v=xWEr-uW6VLk",
-      "APPLE": "#",
-      "date": "July 19, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/changing-definitions-of-apostasy/id1607871793?i=1000777429863",
+      "date": "July 19, 2026"
     },
     {
       "number": 234,
@@ -149,9 +173,8 @@
       "tags": "church-culture culture family",
       "image": "validation",
       "YT": "https://youtu.be/XLpM04wiRlo",
-      "APPLE": "#",
-      "date": "July 12, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/are-women-excessively-validated/id1607871793?i=1000776468932",
+      "date": "July 12, 2026"
     },
     {
       "number": 233,

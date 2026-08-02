@@ -1,6 +1,28 @@
 [
 
     {
+      "number": 251,
+      "title": "Don’t Form a Personal Relationship with Christ?",
+      "desc": "What does it mean to create a connection like this with Jesus, and what might we miss when we focus on a 'personal relationship' with Him?",
+      "tags": "church-culture christianity jesus-christ youth",
+      "image": "relation",
+      "YT": "https://youtu.be/LQMJHZOtTlU",
+      "APPLE": "#",
+      "date": "November 8, 2026",
+      "published": false
+    },
+    {
+      "number": 250,
+      "title": "Billions in Welfare, How Does it Compare?",
+      "desc": "Recent announcements highlight that humanitarian aid exceeds a billion dollars annually. Based on Church membership and wealth… should that number be higher?",
+      "tags": "welfare tithing transparency finances",
+      "image": "billions",
+      "YT": "https://www.youtube.com/watch?v=IJ3SMCZd8FI",
+      "APPLE": "#",
+      "date": "November 1, 2026",
+      "published": false
+    },
+    {
       "number": 249,
       "title": "Mormon History and the September Six",
       "desc": "A 1980s-era purge of intellectuals and activists has cast a long shadow, but what events led up to this conflict and how might similar tensions today play out?",
@@ -70,11 +92,11 @@
     },
     {
       "number": 243,
-      "title": "Billions in Welfare, How Does it Compare?",
-      "desc": "Recent announcements highlight that humanitarian aid exceeds a billion dollars annually. Based on Church membership and wealth… should that number be higher?",
-      "tags": "welfare tithing transparency finances",
-      "image": "billions",
-      "YT": "https://www.youtube.com/watch?v=IJ3SMCZd8FI",
+      "title": "25 Minute Classes: The TikTokification of Church?",
+      "desc": "Does the new schedule change discourage depth of discussion, or is there something to be gained from reducing class time so significantly?",
+      "tags": "church-culture sabbath",
+      "image": "tiktokify",
+      "YT": "https://youtu.be/QRj7sAs14yo",
       "APPLE": "#",
       "date": "September 13, 2026",
       "published": false
@@ -141,9 +163,8 @@
       "tags": "scripture revelation book-of-mormon polygamy temple",
       "image": "nemenhah",
       "YT": "https://youtu.be/sb_t9SZAM5c",
-      "APPLE": "#",
-      "date": "August 2, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/the-nemenhah-record-true-or-false/id1607871793?i=1000779536933",
+      "date": "August 2, 2026"
     },
     {
       "number": 236,
@@ -152,9 +173,8 @@
       "tags": "religious-freedom freedom church-culture politics",
       "image": "RFthreats",
       "YT": "https://youtu.be/KHHx4UoRyk0",
-      "APPLE": "#",
-      "date": "July 26, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/ten-threats-to-religious-freedom/id1607871793?i=1000778415411",
+      "date": "July 26, 2026"
     },
     {
       "number": 235,

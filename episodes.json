@@ -1,6 +1,28 @@
 [
 
     {
+      "number": 253,
+      "title": "Who's Leading the Humble Astray?",
+      "desc": "The condemnation that the Saints remain under exists for a reason. But who's to blame?",
+      "tags": "prophet scripture church-culture authority doctrine",
+      "image": "precepts",
+      "YT": "https://youtu.be/sSPDHTY6dH4",
+      "APPLE": "#",
+      "date": "November 22, 2026",
+      "published": false
+    },
+    {
+      "number": 252,
+      "title": "End the Fed, Save the Family",
+      "desc": "How does weak money weaken families and society at large? The answer is often overlooked yet radically impacts each household.",
+      "tags": "family money finances children culture",
+      "image": "endfed",
+      "YT": "https://youtu.be/mtRE66w2ezU",
+      "APPLE": "#",
+      "date": "November 15, 2026",
+      "published": false
+    },
+    {
       "number": 251,
       "title": "Don’t Form a Personal Relationship with Christ?",
       "desc": "What does it mean to create a connection like this with Jesus, and what might we miss when we focus on a 'personal relationship' with Him?",
@@ -152,9 +174,8 @@
       "tags": "church-history bible joseph-smith revelation scripture doctrine",
       "image": "alterbible2",
       "YT": "https://youtu.be/wx4ZAaDdNsM",
-      "APPLE": "#",
-      "date": "August 9, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/ten-changes-joseph-smith-made-to-the-bible/id1607871793?i=1000781239629",
+      "date": "August 9, 2026"
     },
     {
       "number": 237,

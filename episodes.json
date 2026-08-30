@@ -1,6 +1,28 @@
 [
 
     {
+      "number": 255,
+      "title": "Creeds, Abominations, and Riveted Falsehoods",
+      "desc": "Joseph Smith's letter from Liberty Jail contains a clue about how apostasy transmits from one generation to the next.",
+      "tags": "prophet apostasy scripture culture church-culture",
+      "image": "rivet",
+      "YT": "https://youtu.be/HaSzlHiFIbo",
+      "APPLE": "#",
+      "date": "December 6, 2026",
+      "published": false
+    },
+    {
+      "number": 254,
+      "title": "When God Works Outside the Lines",
+      "desc": "While God's people often try and gatekeep Him, the scriptures suggest that God is liberal in how He uses His power and who He works through.",
+      "tags": "prophet scripture church-culture authority",
+      "image": "outsidelines",
+      "YT": "https://youtu.be/im8t63LLbpg",
+      "APPLE": "#",
+      "date": "November 29, 2026",
+      "published": false
+    },
+    {
       "number": 253,
       "title": "Who's Leading the Humble Astray?",
       "desc": "The condemnation that the Saints remain under exists for a reason. But who's to blame?",
@@ -152,9 +174,8 @@
       "tags": "politics church-culture",
       "image": "leftists",
       "YT": "https://youtu.be/m2OXSsEnqRw",
-      "APPLE": "#",
-      "date": "August 23, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/the-superficial-statements-of-leftist-latter-day-saints/id1607871793?i=1000785304177",
+      "date": "August 23, 2026"
     },
     {
       "number": 239,
@@ -163,9 +184,8 @@
       "tags": "politics scripture",
       "image": "deathpenalty",
       "YT": "https://youtu.be/68mCI_vZFtc",
-      "APPLE": "#",
-      "date": "August 16, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/why-i-oppose-the-death-penalty-and-why-you-should-too/id1607871793?i=1000783652758",
+      "date": "August 16, 2026"
     },
     {
       "number": 238,

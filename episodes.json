@@ -1,6 +1,28 @@
 [
 
     {
+      "number": 257,
+      "title": "Why did Joseph Smith Seek the US Presidency?",
+      "desc": " Joseph Smith's campaign for president was cut short by his assassination, but what was its purpose and what policies did he propose?",
+      "tags": "church-history politics law joseph-smith",
+      "image": "josephpresident",
+      "YT": "https://youtu.be/amlOe66kYTw",
+      "APPLE": "#",
+      "date": "December 20, 2026",
+      "published": false
+    },
+    {
+      "number": 256,
+      "title": "Correlation: What It Is and How It Came to Be",
+      "desc": "The Church's auxiliary organizations, created in response to member needs, were put under priesthood control after a decades-long effort. What has been the result?",
+      "tags": "church-history church-culture priesthood doctrine",
+      "image": "correlation",
+      "YT": "https://youtu.be/VMYy2xBHPI4",
+      "APPLE": "#",
+      "date": "December 13, 2026",
+      "published": false
+    },
+    {
       "number": 255,
       "title": "Creeds, Abominations, and Riveted Falsehoods",
       "desc": "Joseph Smith's letter from Liberty Jail contains a clue about how apostasy transmits from one generation to the next.",
@@ -141,9 +163,8 @@
       "tags": "church-culture sabbath",
       "image": "tiktokify",
       "YT": "https://youtu.be/QRj7sAs14yo",
-      "APPLE": "#",
-      "date": "September 13, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/25-minute-classes-the-tiktokification-of-church/id1607871793?i=1000789339169",
+      "date": "September 13, 2026"
     },
     {
       "number": 242,
@@ -152,9 +173,8 @@
       "tags": "war politics history",
       "image": "911",
       "YT": "https://youtu.be/4YzCUYP6nO8",
-      "APPLE": "#",
-      "date": "September 6, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/9-11-25-years-later/id1607871793?i=1000788150589",
+      "date": "September 6, 2026"
     },
     {
       "number": 241,

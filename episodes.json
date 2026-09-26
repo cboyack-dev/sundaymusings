@@ -1,6 +1,17 @@
 [
 
     {
+      "number": 258,
+      "title": "Why I’ll Encourage My Kids to Dodge a Draft",
+      "desc": "Are Latter-day Saints allowed to opt out of war when so many statements to the contrary have been made?",
+      "tags": "church-history war church-culture politics",
+      "image": "draft",
+      "YT": "https://youtu.be/dvykiUNRB5Y",
+      "APPLE": "#",
+      "date": "December 27, 2026",
+      "published": false
+    },
+    {
       "number": 257,
       "title": "Why did Joseph Smith Seek the US Presidency?",
       "desc": " Joseph Smith's campaign for president was cut short by his assassination, but what was its purpose and what policies did he propose?",
@@ -136,11 +147,11 @@
     },
     {
       "number": 245,
-      "title": "Why I’ll Encourage My Kids to Dodge a Draft",
-      "desc": "Are Latter-day Saints allowed to opt out of war when so many statements to the contrary have been made?",
-      "tags": "church-history war church-culture politics",
-      "image": "draft",
-      "YT": "https://youtu.be/dvykiUNRB5Y",
+      "title": "New Data on Mormon “Tradition and Change”",
+      "desc": "A new report analyzing Mormon demographics and beliefs is out, but does it differ from what official sources show?",
+      "tags": "church-history church-culture culture faith marriage ",
+      "image": "pew",
+      "YT": "https://www.youtube.com/watch?v=e8CFbaUBe-I",
       "APPLE": "#",
       "date": "September 27, 2026",
       "published": false
@@ -152,9 +163,8 @@
       "tags": "doctrine church-culture education social-media transparency",
       "image": "denial",
       "YT": "https://youtu.be/5gsuwMtZnjc",
-      "APPLE": "#",
-      "date": "September 20, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/the-deniability-doctrine-outsourcing-apologetics/id1607871793?i=1000790793644",
+      "date": "September 20, 2026"
     },
     {
       "number": 243,

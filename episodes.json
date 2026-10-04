@@ -1,6 +1,28 @@
 [
 
     {
+      "number": 260,
+      "title": "1 Mormon vs. Everyone Else",
+      "desc": "Catholics and Protestants contend that their creeds define the nature of God, yet confusion abounds. The restored gospel clarifies.",
+      "tags": "revelation history joseph-smith scripture",
+      "image": "creedal",
+      "YT": "https://youtu.be/KzVc1KP7hH8",
+      "APPLE": "#",
+      "date": "January 10, 2027",
+      "published": false
+    },
+    {
+      "number": 259,
+      "title": "The Journal of Discourses and Double Standards",
+      "desc": "There's a double standard in how we treat statements from early Church leaders. Why?",
+      "tags": "church-history scripture revelation joseph-smith polygamy",
+      "image": "JOD",
+      "YT": "https://youtu.be/sp4qENijMB8",
+      "APPLE": "#",
+      "date": "January 3, 2027",
+      "published": false
+    },
+    {
       "number": 258,
       "title": "Why I’ll Encourage My Kids to Dodge a Draft",
       "desc": "Are Latter-day Saints allowed to opt out of war when so many statements to the contrary have been made?",
@@ -141,9 +163,8 @@
       "tags": "charity church-culture welfare jesus-christ",
       "image": "2ndcoming",
       "YT": "https://youtu.be/6ezq-SG-Li4",
-      "APPLE": "#",
-      "date": "October 4, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/have-we-stopped-talking-about-the-second-coming/id1607871793?i=1000793105717",
+      "date": "October 4, 2026"
     },
     {
       "number": 245,

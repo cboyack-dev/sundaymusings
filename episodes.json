@@ -1,6 +1,29 @@
 [
 
     {
+      "number": 262,
+      "title": "Rehabilitating Brigham Young",
+      "desc": "Is the scrutiny shown to the LDS Church's second president deserved?",
+      "tags": "church-history joseph-smith polygamy prophet",
+      "image": "brigham3",
+      "YT": "https://youtu.be/nHzYhh5oM_k",
+      "APPLE": "#",
+      "date": "January 24, 2027",
+      "published": false
+    },
+    {
+      "number": 261,
+      "title": "Mormon History and the September Six",
+      "desc": "A 1980s-era purge of intellectuals and activists has cast a long shadow, but what events led up to this conflict and how might similar tensions today play out?",
+      "tags": "church-culture church-history transparency",
+      "image": "sept6",
+      "YT": "https://youtu.be/W_NFx-obkS8",
+      "APPLE": "#",
+      "date": "January 17, 2027",
+      "published": false
+    },
+
+    {
       "number": 260,
       "title": "1 Mormon vs. Everyone Else",
       "desc": "Catholics and Protestants contend that their creeds define the nature of God, yet confusion abounds. The restored gospel clarifies.",
@@ -123,11 +146,11 @@
     },
     {
       "number": 249,
-      "title": "Mormon History and the September Six",
-      "desc": "A 1980s-era purge of intellectuals and activists has cast a long shadow, but what events led up to this conflict and how might similar tensions today play out?",
-      "tags": "church-culture church-history transparency",
-      "image": "sept6",
-      "YT": "https://youtu.be/W_NFx-obkS8",
+      "title": "Gambling and Economic Ignoramuses",
+      "desc": "Should the recent general conference address criticizing gambling be read as a critique against investing and capitalism itself?",
+      "tags": "general-conference money politics gambling",
+      "image": "gambling",
+      "YT": "https://youtu.be/VSyof6_hgR8",
       "APPLE": "#",
       "date": "October 25, 2026",
       "published": false
@@ -140,9 +163,8 @@
       "tags": "politics history culture law",
       "image": "badcitizen",
       "YT": "https://youtu.be/8obmqqOjtoo",
-      "APPLE": "#",
-      "date": "October 18, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/how-to-be-a-bad-global-citizen/id1607871793?i=1000796924515",
+      "date": "October 18, 2026"
     },
 
     {
@@ -152,9 +174,8 @@
       "tags": "doctrine christianity bible book-of-mormon scripture",
       "image": "protest",
       "YT": "https://youtu.be/RIgPeVldwYg",
-      "APPLE": "#",
-      "date": "October 11, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/the-protestantization-of-mormonism/id1607871793?i=1000795278891",
+      "date": "October 11, 2026"
     },
     {
       "number": 246,

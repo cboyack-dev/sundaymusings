@@ -1,6 +1,28 @@
 [
 
     {
+      "number": 264,
+      "title": "I Have a Question…",
+      "desc": "A multi-decade Church magazine column allowed members to ask questions. Is it true that the 'meatiness' of those questions degraded over time?",
+      "tags": "church-history doctrine",
+      "image": "havequestion",
+      "YT": "https://youtu.be/CPzFzrarAMs",
+      "APPLE": "#",
+      "date": "February 7, 2027",
+      "published": false
+    },
+    {
+      "number": 263,
+      "title": "Are Missionaries Mature Enough?",
+      "desc": "By lowering the age for missionary service, has the bar for maturity level and preparation also been lowered?",
+      "tags": "church-culture missionary",
+      "image": "missionaryage",
+      "YT": "https://youtu.be/Y8nuTRnH3Rs",
+      "APPLE": "#",
+      "date": "January 31, 2027",
+      "published": false
+    },
+    {
       "number": 262,
       "title": "Rehabilitating Brigham Young",
       "desc": "Is the scrutiny shown to the LDS Church's second president deserved?",
@@ -140,9 +162,8 @@
       "tags": "welfare tithing transparency finances",
       "image": "billions",
       "YT": "https://www.youtube.com/watch?v=IJ3SMCZd8FI",
-      "APPLE": "#",
-      "date": "November 1, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/billions-in-welfare-how-does-it-compare/id1607871793?i=1000799225188",
+      "date": "November 1, 2026"
     },
     {
       "number": 249,
@@ -151,9 +172,8 @@
       "tags": "general-conference money politics gambling",
       "image": "gambling",
       "YT": "https://youtu.be/VSyof6_hgR8",
-      "APPLE": "#",
-      "date": "October 25, 2026",
-      "published": false
+      "APPLE": "https://podcasts.apple.com/us/podcast/gambling-and-economic-ignoramuses/id1607871793?i=1000798024290",
+      "date": "October 25, 2026"
     },
 
     {
